@@ -1,0 +1,13 @@
+---
+galaxy_info:
+  author: Edward Guan
+  description: Prometheus Node Exporter
+  license: MIT
+  company: none
+  min_ansible_version: 2.5
+  galaxy_tags:
+    - prometheus
+    - exporter
+    - metrics
+
+dependencies: []
